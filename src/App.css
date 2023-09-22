@@ -1,0 +1,41 @@
+.App-logo{
+  width: 200px;
+  mix-blend-mode:multiply;
+}
+
+.App{
+  /* text-align:center; */
+  display: flex;
+  flex-direction: row;
+}
+
+.name-section{
+  padding-top : 200px;
+  width: 50%;
+  background-color: blueviolet;
+  background-image: url("https://images.unsplash.com/photo-1436891620584-47fd0e565afb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmVydGljYWwlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+  background-size:cover ;
+}
+
+.form-section{
+  width:50%;
+  padding-top : 200px;
+}
+
+table{
+  margin-left:auto;
+  margin-right:auto;
+  padding: 30px;
+}
+td{
+  padding:5px
+}
+/* .submit{
+  margin-left:auto;
+  margin-right:auto;
+} */
+
+.new-user{
+  margin-top: 50px;
+}
+ 
